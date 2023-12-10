@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jamesvrooney/package_test#readme",
   "publishConfig": {
-    "@jamesvrooney:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
